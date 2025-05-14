@@ -27,7 +27,7 @@ This project introduces an end-to-end framework for generating background music 
 
 The framework is composed of two main components:
 
-![V2B_구조](src\v2m.png)
+![V2B_구조](src/v2m.png)
 
 1.  **Video Captioning:**
     - Uses **VideoLLaMA3** to generate captions that describe visual content, mood, and scene dynamics.
