@@ -7,7 +7,7 @@
 - Jaegun Lee ([leejken530@knu.ac.kr](mailto:leejken530@knu.ac.kr))
 - Taejun Kwon ([ktjmamamoo0629@knu.ac.kr](mailto:ktjmamamoo0629@knu.ac.kr))
 - Janghoon Choi ([jhchoi09@knu.ac.kr](mailto:jhchoi09@knu.ac.kr))
-- Data Science Department, Kyungpook National University
+- Graduate Data Science Department, Kyungpook National University
 
 ---
 
@@ -259,21 +259,6 @@ The generated music exhibits high fidelity and aligns well with the video conten
 3. Li et al., "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation", ICML 2022.
 4. Copet et al., "Simple and Controllable Music Generation", arXiv, 2023.
 
----
-
-## 📌 **Citation**
-
-If you use this framework in your research, please cite the following:
-
-```
-@article{lee2025video,
-  title={Video-to-Background Music End-to-End Framework: Automatic Captioning and Music Generation for Video Content},
-  author={Lee, Jaegun and Kwon, Taejun and Choi, Janghoon},
-  journal={arXiv preprint arXiv:2501.13106},
-  year={2025}
-}
-
-```
 
 ---
 
